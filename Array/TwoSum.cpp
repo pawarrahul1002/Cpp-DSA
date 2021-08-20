@@ -35,7 +35,7 @@ int main()
     }
     v = TwoSum(v, target);
 
-    cout << "index poision of taht two number is "<<endl;
+    cout << "index poision of that two number is "<<endl;
     for (auto it = v.begin(); it != v.end(); it++)
     {
         cout << *it << " ";
